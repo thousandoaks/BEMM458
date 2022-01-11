@@ -15,4 +15,4 @@ pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 seaborn==0.11.2
 six==1.15.0               # via cycler, python-dateutil
-twarc==v2.8.3
+
